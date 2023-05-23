@@ -17,7 +17,7 @@ Modeling
 The models used were this and that with the results as this and that
 
 Evaluation
-We use this and this model and this model had the best performance when compared to the rest as well as this results.
+We use this and this model had the best performance when compared to the rest as well as this results.
 
 It had a score of (x) when scoring using precision, recall, f1 score, accuracy as well as roc/auc, 
  etc
