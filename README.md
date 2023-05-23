@@ -1,4 +1,5 @@
 Predicting Customer Churn in a Telecommunications Company: A Machine Learning Approach
+![image](https://github.com/nyokabi-w/Phase-3-project/assets/70520367/ce7119f5-e55c-4af1-9488-2052a6ef6d28)
 
 Project Overview
 
